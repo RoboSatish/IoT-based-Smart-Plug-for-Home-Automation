@@ -1,1 +1,3 @@
 # IoT-based-Smart-Plug-for-Home-Automation
+
+A smart Wi-Fi socket that enables to control AC loads wirelessly through smart phone. While products like these are already available in the market, like the popular Moko WiFi Smart Plug or Sonoff, they are a bit expensive and on top of that it doesn’t give the joy of building your own.  So, in this concept  will show you how you can build your very own Smart plug using ESP8266 Wi-Fi module. The device that we built can easily be plugged into any exiting AC socket and then on the other end you can connect the actual load simply by plugging it into this socket on our device. 
